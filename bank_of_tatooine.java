@@ -1,5 +1,4 @@
 //Citlalli Trejo Del Rio
-//Homework 5
 import java.util.*;
 public class bank
 {
